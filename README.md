@@ -3,6 +3,8 @@ Oportunidades
 
 Desenvolvedor Android - https://github.com/fretebras/jobs/blob/master/android/dev_android.md
 
+Desenvolvedor Web - https://github.com/fretebras/jobs/blob/master/web/dev_web.md
+
 Sobre a empresa
 -------------
 
