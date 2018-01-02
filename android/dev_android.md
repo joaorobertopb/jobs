@@ -1,6 +1,6 @@
 # Vaga de Desenvolvedor Android
 
-Descrição da vaga
+Descrição da vaga (Encerrada)
 -------------
 
 Se você manda bem em desenvolvimento Android e tem habilidades para trabalhar em times integrados, ágeis e multidisciplinares, venha trabalhar com a gente e fazer a diferença ajudando a construir um app que atende a milhares de motoristas todos os dias, que tem mais de 300 mil downloads!
