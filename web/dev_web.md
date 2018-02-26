@@ -1,6 +1,6 @@
 # Vaga de Desenvolvedor Web
 
-Descrição da vaga (Encerrada)
+Descrição da vaga
 -------------
 
 Estamos a procura de um profissional com conhecimento pleno em desenvolvimento web, que goste realmente de desenvolver, seja focado na qualidade das entregas e goste de ambientes dinâmicos. Estar disposto a aprender é extremamente importante!
