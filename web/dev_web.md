@@ -3,9 +3,9 @@
 Descrição da vaga
 -------------
 
-Estamos a procura de um profissional com conhecimento pleno em desenvolvimento web, que goste realmente de programar, seja focado na qualidade das entregas e goste de ambientes dinâmicos. Estar disposto a aprender é extremamente importante!
+Estamos à procura de um profissional com conhecimento pleno em desenvolvimento web, que goste realmente de programar, seja focado na qualidade das entregas e goste de ambientes dinâmicos. Estar disposto a aprender é extremamente importante!
 
-Contamos hoje como principal linguagem o PHP, mas aqui você também poderá trabalhar com NodeJS, API's, Angular, AWS Amazon, integração contínua, code review, Git, Jenkins e Big Data, tudo isso em um ambiente focado em desenvolvimento ágil.
+Contamos hoje como principal linguagem o PHP, mas aqui você também poderá trabalhar com NodeJS, APIs, Angular, AWS Amazon, integração contínua, code review, Git, Jenkins e Big Data, tudo isso em um ambiente focado em desenvolvimento ágil.
 
 Na Fretebras o time tem liberdade de explorar novas tecnologias com desafios que são criados mensalmente, além de promover tech talks.
 
