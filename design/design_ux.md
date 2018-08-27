@@ -1,4 +1,4 @@
-# Vaga de Designer UX
+# Vaga de Designer UX (Encerrada)
 
 Descrição da vaga
 -------------

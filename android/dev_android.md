@@ -1,4 +1,4 @@
-# Vaga de Desenvolvedor Android
+# Vaga de Desenvolvedor Android (Encerrada)
 
 Descrição da vaga
 -------------
