@@ -11,6 +11,7 @@ Na Fretebras o time tem liberdade de explorar novas tecnologias com desafios que
 
 - Local de trabalho: Catalão, Goiás
 - Classificação: Pleno
+- Contratação: CLT
 
 Requisitos
 -------------
@@ -23,10 +24,15 @@ Requisitos
 
 Benefícios
 -------------
-- Plano de Saúde;
-- Vale-alimentação;
-- Custeio de eventos/treinamentos;
-- Day off no dia do aniversário;
+- Plano de Saúde
+- Vale-alimentação
+- Custeio de eventos/treinamentos
+- Day off no dia do aniversário
+
+Diferenciais:
+
+- Café Expresso (Nespresso)
+- iMac ou Macbook
 
 Nossa Empresa
 -------------
