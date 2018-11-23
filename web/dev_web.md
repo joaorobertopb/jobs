@@ -43,7 +43,7 @@ Nossa Empresa
 
 A Fretebras é uma empresa de tecnologia que atua no setor de transporte de cargas e é líder de mercado em divulgação de fretes. Disponibilizamos ferramentas que permitem o compartilhamento de veículos de diferentes empresas para o transporte de cargas, possibilitando que motoristas autônomos e frotistas (através de computadores, celulares ou tablets) encontrem fretes compatíveis com as características e posição geográfica de seus veículos.
 
-Na contramão da crise, a Fretebras só cresce. Fundada em 2008, a empresa possui mais de 100 milhões de pageviews/mês e aplicativo Android com quase 600 mil downloads.
+Na contramão da crise, a Fretebras só cresce. Fundada em 2008, a empresa possui mais de 120 milhões de pageviews/mês e aplicativo Android com mais de 600 mil downloads.
 
 Como se candidatar
 -------------
