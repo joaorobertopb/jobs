@@ -11,6 +11,7 @@ Na Fretebras o time tem liberdade de explorar novas tecnologias com desafios que
 
 - Local de trabalho: Catalão, Goiás
 - Classificação: Pleno
+- Contratação: CLT
 
 Requisitos
 -------------
