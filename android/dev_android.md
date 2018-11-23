@@ -3,7 +3,7 @@
 Descrição da vaga
 -------------
 
-Se você manda bem em desenvolvimento Android e tem habilidades para trabalhar em times integrados, ágeis e multidisciplinares, venha trabalhar com a gente e fazer a diferença ajudando a construir um app que atende a milhares de motoristas todos os dias, que tem quase 500 mil downloads!
+Se você manda bem em desenvolvimento Android e tem habilidades para trabalhar em times integrados, ágeis e multidisciplinares, venha trabalhar com a gente e fazer a diferença ajudando a construir um app que atende a milhares de motoristas todos os dias, com mais de 600 mil downloads!
 
 Contamos hoje com desenvolvimento em Android nativo, aqui você irá trabalhar com o padrão Clean Architecture, programar em Java/Kotlin, trabalhar com RxJava, Retrofit, Dagger, Firebase, consumo de APIs, Material Design, SOLID, teste unitário/UI, code review, AWS Amazon, integração contínua, Git, Jenkins, tudo isso em um ambiente de desenvolvimento ágil, focado em fazer as coisas acontecerem.
 
