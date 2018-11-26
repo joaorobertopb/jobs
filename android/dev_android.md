@@ -9,8 +9,8 @@ Contamos hoje com desenvolvimento em Android nativo, aqui você irá trabalhar c
 
 Na Fretebras o time tem liberdade de explorar novas tecnologias com desafios que são criados mensalmente, além de promover tech talks.
 
-- Local de trabalho: Catalão, Goiá́s
-- Classificação: Pleno ou Sênior
+- Local de trabalho: Catalão, Goiás
+- Classificação: Pleno ou Sênior
 - Contratação: CLT
 
 Requisitos
