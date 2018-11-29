@@ -1,4 +1,4 @@
-# Vaga de Desenvolvedor Web
+# Vaga de Desenvolvedor Web (Encerrada)
 
 Descrição da vaga
 -------------
