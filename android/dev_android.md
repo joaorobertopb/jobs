@@ -51,4 +51,4 @@ Na contramão da crise, a Fretebras só cresce. Fundada em 2008, a empresa possu
 Como se candidatar
 -------------
 
-Envie seu currículo para jobs@fretebras.com.br com o título: **Desenvolvedor Android**.
+Envie seu currículo para jobs@fretebras.com.br com o título: **Desenvolvedor(a) Android**.
