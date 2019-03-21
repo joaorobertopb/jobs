@@ -1,4 +1,4 @@
-# Vaga de Engenheiro de Software
+# Vaga de Engenheiro(a) de Software
 
 Descrição da vaga
 -------------

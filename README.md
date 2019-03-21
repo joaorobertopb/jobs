@@ -1,9 +1,9 @@
 Oportunidades
 -------------
 
-Engenheiro de Software - https://github.com/fretebras/jobs/blob/master/engenheiro/engenheiro.md
+Engenheiro(a) de Software - https://github.com/fretebras/jobs/blob/master/engenheiro/engenheiro.md
 
-~Desenvolvedor Android - https://github.com/fretebras/jobs/blob/master/android/dev_android.md~
+~Desenvolvedor(a) Android - https://github.com/fretebras/jobs/blob/master/android/dev_android.md~
 
 ~Designer UX - https://github.com/fretebras/jobs/blob/master/design/design_ux.md~
 
