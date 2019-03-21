@@ -1,16 +1,16 @@
-# Vaga de Desenvolvedor Web (Encerrada)
+# Vaga de Engenheiro de Software
 
 Descrição da vaga
 -------------
 
-Estamos à procura de um profissional com conhecimento pleno em desenvolvimento web, que goste realmente de programar, seja focado na qualidade das entregas e goste de ambientes dinâmicos. Estar disposto a aprender é extremamente importante!
+Estamos à procura de um engenheiro de software com conhecimento full-stack, que goste realmente de programar, seja focado na qualidade das entregas e goste de ambientes dinâmicos. Estar disposto a aprender é extremamente importante!
 
-Contamos hoje como principal linguagem o PHP, mas aqui você também irá trabalhar com NodeJS, APIs, Angular, AWS Amazon, Mongo, integração contínua, code review, Git, Jenkins e Big Data, tudo isso em um ambiente focado em desenvolvimento ágil.
+Contamos hoje como principal linguagem o PHP, mas aqui você também irá trabalhar com NodeJS, APIs, Angular, AWS Amazon, Mongo, integração contínua, code review, Git, SOLID, testes, Jenkins e Big Data, tudo isso em um ambiente focado em desenvolvimento ágil.
 
 Na Fretebras o time tem liberdade de explorar novas tecnologias com desafios que são criados mensalmente, além de promover tech talks.
 
 - Local de trabalho: Catalão, Goiás
-- Classificação: Pleno
+- Classificação: Pleno, Senior
 - Contratação: CLT
 
 Requisitos
@@ -43,9 +43,9 @@ Nossa Empresa
 
 A Fretebras é uma empresa de tecnologia que atua no setor de transporte de cargas e é líder de mercado em divulgação de fretes. Disponibilizamos ferramentas que permitem o compartilhamento de veículos de diferentes empresas para o transporte de cargas, possibilitando que motoristas autônomos e frotistas (através de computadores, celulares ou tablets) encontrem fretes compatíveis com as características e posição geográfica de seus veículos.
 
-Na contramão da crise, a Fretebras só cresce. Fundada em 2008, a empresa possui mais de 120 milhões de pageviews/mês e aplicativo Android com mais de 600 mil downloads.
+Na contramão da crise, a Fretebras só cresce. Fundada em 2008, a empresa possui mais de 130 milhões de pageviews/mês e aplicativo Android com mais de 700 mil downloads.
 
 Como se candidatar
 -------------
 
-Envie seu currículo para jobs@fretebras.com.br com o título: **Desenvolvedor Web**.
+Envie seu currículo para jobs@fretebras.com.br com o título: **Engenheiro de Software**.
