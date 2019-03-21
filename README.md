@@ -1,9 +1,9 @@
 Oportunidades
 -------------
 
-Desenvolvedor Android - https://github.com/fretebras/jobs/blob/master/android/dev_android.md
+Engenheiro de Software - https://github.com/fretebras/jobs/blob/master/engenheiro/engenheiro.md
 
-~Desenvolvedor Web - https://github.com/fretebras/jobs/blob/master/web/dev_web.md~
+~Desenvolvedor Android - https://github.com/fretebras/jobs/blob/master/android/dev_android.md~
 
 ~Designer UX - https://github.com/fretebras/jobs/blob/master/design/design_ux.md~
 
@@ -16,7 +16,7 @@ Disponibilizamos ferramentas que permitem o compartilhamento de veículos de dif
 
 Minimizando o tráfego de caminhões vazios, estamos otimizando o uso da frota existente e contribuindo com a redução de poluentes. Um caminhão carregado que retornaria vazio evita que outro consuma recursos para executar a tarefa na mesma rota.
 
-Fundada em 2008, a empresa possui mais de 100 milhões de pageviews/mês e aplicativo Android com quase 600 mil downloads, números que a torna líder em audiência no segmento, em suas respectivas plataformas (web e mobile).
+Fundada em 2008, a empresa possui mais de 100 milhões de pageviews/mês e aplicativo Android com quase 600 mil downloads, números que a torna líder em audiência no segmento.
 
 - Local: Catalão/GO
 - Site: www.fretebras.com.br
